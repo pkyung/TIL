@@ -1,6 +1,6 @@
 # 스프링 부트와 AWS로 혼자 구현하는 웹 서비스
 
-<img src="https://github.com/pkyung/TIL/assets/81898507156c8541-5cff-4308-828d-26e5b9bf15d0">
+![책](https://github.com/pkyung/TIL/assets/81898507/bf24c895-3a9b-4f20-bd9e-8fa2113e34b7)
 
 ## 1장 인텔리제이로 스프링 부트 시작하기
 
