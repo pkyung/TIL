@@ -4,11 +4,11 @@
 
 ## 1장 협력하는 객체들의 공동체
 
-[:link: 1장](https://p-kyung.tistory.com/75)
+[:link: 1장 그리고 느낀점](https://p-kyung.tistory.com/75)
 
 ## 2장 이상한 나라의 객체
 
-[:link: 2장](https://p-kyung.tistory.com/76)
+[:link: 2장 그리고 느낀점](https://p-kyung.tistory.com/76)
 
 ## 3장 타입과 추상화
 
