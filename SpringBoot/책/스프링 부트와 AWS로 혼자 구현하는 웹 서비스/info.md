@@ -1,4 +1,4 @@
-# 스프링 부트와 AWS로 혼자 구현하는 웹 서비스 :leaves:
+# 스프링 부트와 AWS로 혼자 구현하는 웹 서비스 :four_leaf_clover:
 
 ![책](https://github.com/pkyung/TIL/assets/81898507/bf24c895-3a9b-4f20-bd9e-8fa2113e34b7)
 
