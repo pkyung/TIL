@@ -32,3 +32,10 @@
         @Autowired
         A a;
     }
+
+- MessageConverter : 자바와 파이썬끼리 서로 본인의 object를 던지면 오류가 난다. 중간 데이터인 json으로 MessageConverter가 바꾸어줌으로써 해결했다.
+<p align="center"><img src="./image/image3.png"></p>
+
+- BufferedReader 와 BufferedWriter : InputStreamReader는 문자 하나를 받을 수 있어서 배열을 사용해야한다. 배열을 사용하려면 크기를 정해줘야하기 때문에 불편한다. BufferedReader는 가변 길이의 문자를 받을 수 있다. BufferedWriter 보다는 PrintWriter를 많이 쓴다. 
+직접 구현할 필요없이 @ResponseBody, @RequestBody를 사용하면 Buffered로 주고 받는다. 
+
