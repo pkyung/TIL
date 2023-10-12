@@ -7,3 +7,6 @@
 
 ## JPA란?
 [:link: jpa](./study2.md/)
+
+## 스프링 동작원리
+[:link: 동작원리](./study3.md/)
